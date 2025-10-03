@@ -2,13 +2,21 @@
   "name": "@opesco12/test-package",
   "version": "1.0.1",
   "description": "A test package to learn how to create npm packages",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Opesco12/color-button.git"
+  },
+  "homepage": "https://github.com/Opesco12/color-button#readme",
+  "bugs": {
+    "url": "https://github.com/Opesco12/color-button/issues"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src --out-dir dist"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
