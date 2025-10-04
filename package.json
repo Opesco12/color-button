@@ -1,7 +1,7 @@
 {
   "name": "@opesco12/color-button",
   "version": "1.0.1",
-  "description": "A test package to learn how to create npm packages",
+  "description": "A button that changes button when clicked",
   "repository": {
     "type": "git",
     "url": "https://github.com/Opesco12/color-button.git"
